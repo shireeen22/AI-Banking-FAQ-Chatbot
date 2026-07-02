@@ -6,11 +6,11 @@ from faiss_search import get_answer
 from document_classifier import classify_doc
 from ocr_cleaner import clean_ocrtext
 import streamlit as st
+load_dotenv()
 
+api_key = st.secrets.get("GROQ_API_KEY", os.getenv("GROQ_API_KEY"))
 
-
-
-chatbot = Groq(api_key=st.secrets["GROQ_API_KEY"])
+chatbot = Groq(api_key=api_key)
 
 def image_rag(image_path):
     #*******Text extract*********
