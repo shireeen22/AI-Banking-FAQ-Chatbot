@@ -168,9 +168,9 @@ Coming Soon
 
 **Shireen Khan**
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: *(https://www.linkedin.com/in/shireen-khan-b9134a360/)*
 
-GitHub: *(Add your GitHub profile)*
+GitHub: *(https://github.com/shireeen22)*
 
 ---
 
