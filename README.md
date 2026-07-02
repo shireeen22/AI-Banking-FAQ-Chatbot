@@ -160,13 +160,14 @@ Example:
 
 ## 🌐 Live Demo
 
-Coming Soon
+👉 https://shireeen22-ai-banking-faq-chatbot-app-m1fynh.streamlit.app/
 
 ---
 
 ## 👩‍💻 Developed By
 
 **Shireen Khan**
+**MCA Student WITH AI & ML Specialization**
 
 LinkedIn: *(https://www.linkedin.com/in/shireen-khan-b9134a360/)*
 
